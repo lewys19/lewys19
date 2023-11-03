@@ -5,7 +5,7 @@
 Here are some ideas to get you started: -->
 
 <div align="center">
-  <img src ="./banner.png" />
+  <img src ="./BANER-GITHUB.png" />
   
 </div>
 
@@ -13,7 +13,7 @@ Here are some ideas to get you started: -->
 
 ## 👨🏻‍💻 About Me:
 
-<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+<img  src="./T2jh.gif" height="290px" align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website](https://soumyajit.vercel.app/)**
 
